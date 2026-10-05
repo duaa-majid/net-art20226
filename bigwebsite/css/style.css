@@ -1,0 +1,86 @@
+```css
+body {
+  background-color: lightgray;
+  color: black;
+  font-family: Arial, sans-serif;
+  font-size: 18px;
+}
+
+#bigpage {
+  width: 2000px;
+  height: 2000px;
+  background-color: beige;
+  border: 5px solid black;
+  margin: 20px;
+  padding: 30px;
+}
+
+h1 {
+  font-size: 50px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.intro {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+  margin: 30px;
+}
+
+.box {
+  width: 300px;
+  height: 150px;
+  background-color: lightyellow;
+  border: 3px solid black;
+  margin: 100px;
+  padding: 20px;
+}
+
+.box h2 {
+  font-size: 25px;
+  font-weight: bold;
+}
+
+.box p {
+  font-size: 18px;
+}
+
+span {
+  color: red;
+  font-weight: bold;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+  border: 5px solid black;
+  margin: 100px;
+  padding: 10px;
+}
+
+#secret {
+  width: 350px;
+  height: 200px;
+  background-color: black;
+  color: white;
+  border: 5px dashed red;
+  margin: 200px;
+  padding: 20px;
+  text-align: center;
+}
+
+#secret h2 {
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.bottom {
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.5;
+}
+```
